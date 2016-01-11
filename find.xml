@@ -1,0 +1,32 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="FILE_MASK" value="*.jsx,*.js,*.json,*.less,*.css,*.md,*.rst" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*less</mask>
+      <mask>*.js</mask>
+      <mask>*.js,*.js</mask>
+      <mask>*.js,*.jsx</mask>
+      <mask>*.jsx</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.jsx,*.js</mask>
+      <mask>*.jsx,*.js,*.json</mask>
+      <mask>*.jsx,*.js,*.json,*.less,*.cs</mask>
+      <mask>*.jsx,*.js,*.json,*.less,*.css</mask>
+      <mask>*.jsx,*.js,*.json,*.less,*.css,*.md,*.rst</mask>
+    </recentFileMasks>
+  </component>
+</application>
