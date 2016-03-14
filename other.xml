@@ -70,8 +70,11 @@
       </map>
     </option>
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+  </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="4.2.1" last-modified="1444756414000" />
+    <node-interpreter path="/usr/local/bin/node" version="5.5.0" last-modified="1453338113000" />
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
