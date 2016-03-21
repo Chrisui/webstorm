@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="flow" type="JavaScript" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="e2e/md" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
