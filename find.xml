@@ -2,7 +2,7 @@
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="FILE_MASK" value="*.jsx,*.js,*.json,*.less,*.css,*.md,*.rst" />
+    <option name="FILE_MASK" value="*.jsx,*.js,*.json,*.less,*.css,*.md,*.rst,*.ejs" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -25,6 +25,7 @@
       <mask>*.jsx,*.js,*.json,*.less,*.cs</mask>
       <mask>*.jsx,*.js,*.json,*.less,*.css</mask>
       <mask>*.jsx,*.js,*.json,*.less,*.css,*.md,*.rst</mask>
+      <mask>*.jsx,*.js,*.json,*.less,*.css,*.md,*.rst,*.ejs</mask>
     </recentFileMasks>
   </component>
 </application>
