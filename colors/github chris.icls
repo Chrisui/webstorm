@@ -329,6 +329,15 @@
         <option name="FOREGROUND" value="336699" />
       </value>
     </option>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="ff2a66" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
