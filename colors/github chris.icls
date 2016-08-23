@@ -331,7 +331,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ffd0e5" />
         <option name="BACKGROUND" value="ff2a66" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
