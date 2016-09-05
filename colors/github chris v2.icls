@@ -1,11 +1,4 @@
 <scheme name="github chris v2" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-08-27T14:21:02</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-08-27T14:24:56</property>
-    <property name="originalScheme">github chris</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
@@ -14,6 +7,8 @@
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="CARET_ROW_COLOR" value="dddddd" />
+    <option name="FILESTATUS_NOT_CHANGED" value="0" />
+    <option name="FILESTATUS_SUPPRESSED" value="0" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="bed6e9" />
     <option name="LINE_NUMBERS_COLOR" value="bbbbbb" />
